@@ -1,0 +1,16 @@
+corpus,threshold,n_test_flagged
+Nickparvar,0.9,931
+Nickparvar,0.95,564
+Nickparvar,0.98,460
+Nickparvar,0.99,433
+Nickparvar,0.995,432
+SARTAJ,0.9,260
+SARTAJ,0.95,259
+SARTAJ,0.98,259
+SARTAJ,0.99,259
+SARTAJ,0.995,259
+Kermany CXR,0.9,312
+Kermany CXR,0.95,14
+Kermany CXR,0.98,0
+Kermany CXR,0.99,0
+Kermany CXR,0.995,0

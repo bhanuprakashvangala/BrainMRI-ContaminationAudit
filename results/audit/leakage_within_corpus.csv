@@ -1,0 +1,4 @@
+corpus,n_train,n_test,exact_md5,exact_pct,near_ncc098,near_pct
+Nickparvar,5600,1600,0,0.0,460,28.75
+SARTAJ,2870,394,88,22.34,259,65.74
+Kermany CXR,5216,624,0,0.0,0,0.0

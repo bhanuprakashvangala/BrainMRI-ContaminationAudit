@@ -1,0 +1,14 @@
+# downloaded data (never commit images)
+data/paths.json
+data/figshare/
+*.jpg
+*.jpeg
+*.png
+*.mat
+*.zip
+*.tar
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store

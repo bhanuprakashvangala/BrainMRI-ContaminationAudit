@@ -1,0 +1,6 @@
+# tested with Python 3.12, numpy 2.0.2, pillow 11.3.0, matplotlib 3.10.8, h5py 3.16.0, kagglehub 1.0.0
+numpy>=1.24
+pillow>=10.0
+matplotlib>=3.7
+h5py>=3.8
+kagglehub>=0.3

@@ -1,0 +1,5 @@
+class,n,traceable,same_patient_in_train
+glioma,400,98,90
+meningioma,400,26,26
+notumor,400,0,0
+pituitary,400,77,76

@@ -1,0 +1,260 @@
+path,label,best_match,ncc
+Testing/glioma_tumor/image(2).jpg,glioma_tumor,Training/meningioma_tumor/m1(123).jpg,0.9996
+Testing/glioma_tumor/image(48).jpg,glioma_tumor,Training/meningioma_tumor/m1(168).jpg,0.9999
+Testing/glioma_tumor/image(59).jpg,glioma_tumor,Training/glioma_tumor/gg (444).jpg,1.0000
+Testing/glioma_tumor/image(60).jpg,glioma_tumor,Training/glioma_tumor/gg (447).jpg,1.0000
+Testing/glioma_tumor/image(61).jpg,glioma_tumor,Training/glioma_tumor/gg (651).jpg,1.0000
+Testing/glioma_tumor/image(62).jpg,glioma_tumor,Training/glioma_tumor/gg (652).jpg,1.0000
+Testing/glioma_tumor/image(63).jpg,glioma_tumor,Training/glioma_tumor/gg (707).jpg,1.0000
+Testing/glioma_tumor/image(64).jpg,glioma_tumor,Training/glioma_tumor/gg (369).jpg,1.0000
+Testing/glioma_tumor/image(65).jpg,glioma_tumor,Training/glioma_tumor/gg (369).jpg,1.0000
+Testing/glioma_tumor/image(66).jpg,glioma_tumor,Training/glioma_tumor/gg (589).jpg,1.0000
+Testing/glioma_tumor/image(67).jpg,glioma_tumor,Training/glioma_tumor/gg (624).jpg,1.0000
+Testing/glioma_tumor/image(68).jpg,glioma_tumor,Training/glioma_tumor/gg (772).jpg,1.0000
+Testing/glioma_tumor/image(69).jpg,glioma_tumor,Training/glioma_tumor/gg (774).jpg,1.0000
+Testing/glioma_tumor/image(70).jpg,glioma_tumor,Training/glioma_tumor/gg (775).jpg,1.0000
+Testing/glioma_tumor/image(71).jpg,glioma_tumor,Training/glioma_tumor/gg (775).jpg,1.0000
+Testing/glioma_tumor/image(72).jpg,glioma_tumor,Training/glioma_tumor/gg (797).jpg,1.0000
+Testing/glioma_tumor/image(73).jpg,glioma_tumor,Training/glioma_tumor/gg (805).jpg,1.0000
+Testing/glioma_tumor/image(74).jpg,glioma_tumor,Training/glioma_tumor/gg (7).jpg,1.0000
+Testing/glioma_tumor/image(75).jpg,glioma_tumor,Training/glioma_tumor/gg (9).jpg,1.0000
+Testing/glioma_tumor/image(76).jpg,glioma_tumor,Training/glioma_tumor/gg (12).jpg,1.0000
+Testing/meningioma_tumor/image(10).jpg,meningioma_tumor,Training/meningioma_tumor/m1(120).jpg,1.0000
+Testing/meningioma_tumor/image(100).jpg,meningioma_tumor,Training/meningioma_tumor/m1(10).jpg,1.0000
+Testing/meningioma_tumor/image(102).jpg,meningioma_tumor,Training/meningioma_tumor/m1(12).jpg,1.0000
+Testing/meningioma_tumor/image(106).jpg,meningioma_tumor,Training/meningioma_tumor/m3 (145).jpg,1.0000
+Testing/meningioma_tumor/image(107).jpg,meningioma_tumor,Training/meningioma_tumor/m1(90).jpg,1.0000
+Testing/meningioma_tumor/image(109).jpg,meningioma_tumor,Training/meningioma_tumor/m1(92).jpg,1.0000
+Testing/meningioma_tumor/image(11).jpg,meningioma_tumor,Training/meningioma_tumor/m1(121).jpg,1.0000
+Testing/meningioma_tumor/image(112).jpg,meningioma_tumor,Training/meningioma_tumor/m1(95).jpg,1.0000
+Testing/meningioma_tumor/image(113).jpg,meningioma_tumor,Training/meningioma_tumor/m1(96).jpg,1.0000
+Testing/meningioma_tumor/image(118).jpg,meningioma_tumor,Training/meningioma_tumor/m1(101).jpg,1.0000
+Testing/meningioma_tumor/image(12).jpg,meningioma_tumor,Training/meningioma_tumor/m1(122).jpg,1.0000
+Testing/meningioma_tumor/image(120).jpg,meningioma_tumor,Training/meningioma_tumor/m1(103).jpg,1.0000
+Testing/meningioma_tumor/image(121).jpg,meningioma_tumor,Training/meningioma_tumor/m1(104).jpg,1.0000
+Testing/meningioma_tumor/image(124).jpg,meningioma_tumor,Training/meningioma_tumor/m1(107).jpg,1.0000
+Testing/meningioma_tumor/image(125).jpg,meningioma_tumor,Training/meningioma_tumor/m1(108).jpg,1.0000
+Testing/meningioma_tumor/image(126).jpg,meningioma_tumor,Training/meningioma_tumor/m1(114).jpg,0.9999
+Testing/meningioma_tumor/image(127).jpg,meningioma_tumor,Training/meningioma_tumor/m3 (146).jpg,0.9999
+Testing/meningioma_tumor/image(13).jpg,meningioma_tumor,Training/meningioma_tumor/m1(123).jpg,1.0000
+Testing/meningioma_tumor/image(14).jpg,meningioma_tumor,Training/meningioma_tumor/m1(124).jpg,1.0000
+Testing/meningioma_tumor/image(15).jpg,meningioma_tumor,Training/meningioma_tumor/m1(125).jpg,1.0000
+Testing/meningioma_tumor/image(16).jpg,meningioma_tumor,Training/meningioma_tumor/m1(126).jpg,1.0000
+Testing/meningioma_tumor/image(17).jpg,meningioma_tumor,Training/meningioma_tumor/m1(127).jpg,1.0000
+Testing/meningioma_tumor/image(18).jpg,meningioma_tumor,Training/meningioma_tumor/m1(128).jpg,1.0000
+Testing/meningioma_tumor/image(19).jpg,meningioma_tumor,Training/meningioma_tumor/m1(129).jpg,1.0000
+Testing/meningioma_tumor/image(2).jpg,meningioma_tumor,Training/meningioma_tumor/m1(111).jpg,1.0000
+Testing/meningioma_tumor/image(20).jpg,meningioma_tumor,Training/meningioma_tumor/m1(130).jpg,1.0000
+Testing/meningioma_tumor/image(21).jpg,meningioma_tumor,Training/meningioma_tumor/m1(131).jpg,1.0000
+Testing/meningioma_tumor/image(22).jpg,meningioma_tumor,Training/meningioma_tumor/m1(132).jpg,1.0000
+Testing/meningioma_tumor/image(23).jpg,meningioma_tumor,Training/meningioma_tumor/m1(133).jpg,1.0000
+Testing/meningioma_tumor/image(24).jpg,meningioma_tumor,Training/meningioma_tumor/m1(101).jpg,1.0000
+Testing/meningioma_tumor/image(25).jpg,meningioma_tumor,Training/meningioma_tumor/m1(135).jpg,1.0000
+Testing/meningioma_tumor/image(27).jpg,meningioma_tumor,Training/meningioma_tumor/m1(137).jpg,1.0000
+Testing/meningioma_tumor/image(28).jpg,meningioma_tumor,Training/meningioma_tumor/m1(138).jpg,1.0000
+Testing/meningioma_tumor/image(29).jpg,meningioma_tumor,Training/meningioma_tumor/m1(139).jpg,1.0000
+Testing/meningioma_tumor/image(3).jpg,meningioma_tumor,Training/meningioma_tumor/m1(112).jpg,1.0000
+Testing/meningioma_tumor/image(30).jpg,meningioma_tumor,Training/meningioma_tumor/m1(140).jpg,1.0000
+Testing/meningioma_tumor/image(31).jpg,meningioma_tumor,Training/meningioma_tumor/m1(141).jpg,1.0000
+Testing/meningioma_tumor/image(32).jpg,meningioma_tumor,Training/meningioma_tumor/m1(142).jpg,1.0000
+Testing/meningioma_tumor/image(33).jpg,meningioma_tumor,Training/meningioma_tumor/m1(143).jpg,1.0000
+Testing/meningioma_tumor/image(34).jpg,meningioma_tumor,Training/meningioma_tumor/m1(144).jpg,1.0000
+Testing/meningioma_tumor/image(35).jpg,meningioma_tumor,Training/meningioma_tumor/m1(145).jpg,1.0000
+Testing/meningioma_tumor/image(36).jpg,meningioma_tumor,Training/meningioma_tumor/m1(146).jpg,1.0000
+Testing/meningioma_tumor/image(37).jpg,meningioma_tumor,Training/meningioma_tumor/m1(147).jpg,1.0000
+Testing/meningioma_tumor/image(38).jpg,meningioma_tumor,Training/meningioma_tumor/m1(148).jpg,1.0000
+Testing/meningioma_tumor/image(39).jpg,meningioma_tumor,Training/meningioma_tumor/m1(149).jpg,1.0000
+Testing/meningioma_tumor/image(4).jpg,meningioma_tumor,Training/meningioma_tumor/m1(113).jpg,1.0000
+Testing/meningioma_tumor/image(40).jpg,meningioma_tumor,Training/meningioma_tumor/m1(150).jpg,1.0000
+Testing/meningioma_tumor/image(41).jpg,meningioma_tumor,Training/meningioma_tumor/m1(151).jpg,1.0000
+Testing/meningioma_tumor/image(42).jpg,meningioma_tumor,Training/meningioma_tumor/m1(152).jpg,1.0000
+Testing/meningioma_tumor/image(43).jpg,meningioma_tumor,Training/meningioma_tumor/m1(153).jpg,1.0000
+Testing/meningioma_tumor/image(44).jpg,meningioma_tumor,Training/meningioma_tumor/m1(154).jpg,1.0000
+Testing/meningioma_tumor/image(45).jpg,meningioma_tumor,Training/meningioma_tumor/m1(155).jpg,1.0000
+Testing/meningioma_tumor/image(46).jpg,meningioma_tumor,Training/meningioma_tumor/m1(156).jpg,1.0000
+Testing/meningioma_tumor/image(47).jpg,meningioma_tumor,Training/meningioma_tumor/m1(157).jpg,1.0000
+Testing/meningioma_tumor/image(48).jpg,meningioma_tumor,Training/meningioma_tumor/m1(158).jpg,1.0000
+Testing/meningioma_tumor/image(49).jpg,meningioma_tumor,Training/meningioma_tumor/m1(159).jpg,1.0000
+Testing/meningioma_tumor/image(50).jpg,meningioma_tumor,Training/meningioma_tumor/m1(160).jpg,1.0000
+Testing/meningioma_tumor/image(52).jpg,meningioma_tumor,Training/meningioma_tumor/m1(162).jpg,1.0000
+Testing/meningioma_tumor/image(53).jpg,meningioma_tumor,Training/meningioma_tumor/m1(163).jpg,1.0000
+Testing/meningioma_tumor/image(55).jpg,meningioma_tumor,Training/meningioma_tumor/m1(165).jpg,1.0000
+Testing/meningioma_tumor/image(56).jpg,meningioma_tumor,Training/meningioma_tumor/m1(166).jpg,1.0000
+Testing/meningioma_tumor/image(57).jpg,meningioma_tumor,Training/meningioma_tumor/m1(167).jpg,1.0000
+Testing/meningioma_tumor/image(58).jpg,meningioma_tumor,Training/meningioma_tumor/m1(168).jpg,1.0000
+Testing/meningioma_tumor/image(59).jpg,meningioma_tumor,Training/meningioma_tumor/m1(169).jpg,1.0000
+Testing/meningioma_tumor/image(6).jpg,meningioma_tumor,Training/meningioma_tumor/m1(116).jpg,1.0000
+Testing/meningioma_tumor/image(60).jpg,meningioma_tumor,Training/meningioma_tumor/m1(170).jpg,1.0000
+Testing/meningioma_tumor/image(61).jpg,meningioma_tumor,Training/meningioma_tumor/m1(171).jpg,1.0000
+Testing/meningioma_tumor/image(62).jpg,meningioma_tumor,Training/meningioma_tumor/m1(170).jpg,1.0000
+Testing/meningioma_tumor/image(63).jpg,meningioma_tumor,Training/meningioma_tumor/m1(173).jpg,1.0000
+Testing/meningioma_tumor/image(64).jpg,meningioma_tumor,Training/meningioma_tumor/m1(174).jpg,1.0000
+Testing/meningioma_tumor/image(65).jpg,meningioma_tumor,Training/meningioma_tumor/m1(175).jpg,1.0000
+Testing/meningioma_tumor/image(66).jpg,meningioma_tumor,Training/meningioma_tumor/m1(176).jpg,1.0000
+Testing/meningioma_tumor/image(67).jpg,meningioma_tumor,Training/meningioma_tumor/m1(177).jpg,1.0000
+Testing/meningioma_tumor/image(68).jpg,meningioma_tumor,Training/meningioma_tumor/m1(178).jpg,1.0000
+Testing/meningioma_tumor/image(69).jpg,meningioma_tumor,Training/meningioma_tumor/m1(179).jpg,1.0000
+Testing/meningioma_tumor/image(7).jpg,meningioma_tumor,Training/meningioma_tumor/m1(117).jpg,1.0000
+Testing/meningioma_tumor/image(70).jpg,meningioma_tumor,Training/meningioma_tumor/m1(180).jpg,1.0000
+Testing/meningioma_tumor/image(71).jpg,meningioma_tumor,Training/meningioma_tumor/m1(181).jpg,1.0000
+Testing/meningioma_tumor/image(72).jpg,meningioma_tumor,Training/meningioma_tumor/m1(182).jpg,1.0000
+Testing/meningioma_tumor/image(73).jpg,meningioma_tumor,Training/meningioma_tumor/m1(183).jpg,1.0000
+Testing/meningioma_tumor/image(74).jpg,meningioma_tumor,Training/meningioma_tumor/m1(184).jpg,1.0000
+Testing/meningioma_tumor/image(75).jpg,meningioma_tumor,Training/meningioma_tumor/m1(185).jpg,1.0000
+Testing/meningioma_tumor/image(76).jpg,meningioma_tumor,Training/meningioma_tumor/m1(186).jpg,1.0000
+Testing/meningioma_tumor/image(77).jpg,meningioma_tumor,Training/meningioma_tumor/m1(187).jpg,1.0000
+Testing/meningioma_tumor/image(78).jpg,meningioma_tumor,Training/meningioma_tumor/m1(188).jpg,0.9997
+Testing/meningioma_tumor/image(79).jpg,meningioma_tumor,Training/meningioma_tumor/m1(189).jpg,1.0000
+Testing/meningioma_tumor/image(8).jpg,meningioma_tumor,Training/meningioma_tumor/m1(118).jpg,1.0000
+Testing/meningioma_tumor/image(80).jpg,meningioma_tumor,Training/meningioma_tumor/m1(190).jpg,1.0000
+Testing/meningioma_tumor/image(81).jpg,meningioma_tumor,Training/meningioma_tumor/m1(191).jpg,1.0000
+Testing/meningioma_tumor/image(82).jpg,meningioma_tumor,Training/meningioma_tumor/m1(192).jpg,1.0000
+Testing/meningioma_tumor/image(83).jpg,meningioma_tumor,Training/meningioma_tumor/m1(193).jpg,1.0000
+Testing/meningioma_tumor/image(84).jpg,meningioma_tumor,Training/meningioma_tumor/m1(194).jpg,1.0000
+Testing/meningioma_tumor/image(85).jpg,meningioma_tumor,Training/meningioma_tumor/m1(195).jpg,1.0000
+Testing/meningioma_tumor/image(86).jpg,meningioma_tumor,Training/meningioma_tumor/m1(196).jpg,1.0000
+Testing/meningioma_tumor/image(87).jpg,meningioma_tumor,Training/meningioma_tumor/m1(197).jpg,1.0000
+Testing/meningioma_tumor/image(88).jpg,meningioma_tumor,Training/meningioma_tumor/m1(198).jpg,1.0000
+Testing/meningioma_tumor/image(89).jpg,meningioma_tumor,Training/meningioma_tumor/m1(199).jpg,1.0000
+Testing/meningioma_tumor/image(9).jpg,meningioma_tumor,Training/meningioma_tumor/m1(119).jpg,1.0000
+Testing/meningioma_tumor/image(90).jpg,meningioma_tumor,Training/meningioma_tumor/m1(100).jpg,1.0000
+Testing/meningioma_tumor/image(91).jpg,meningioma_tumor,Training/meningioma_tumor/m1(201).jpg,1.0000
+Testing/meningioma_tumor/image(92).jpg,meningioma_tumor,Training/meningioma_tumor/m1(2).jpg,1.0000
+Testing/meningioma_tumor/image(93).jpg,meningioma_tumor,Training/meningioma_tumor/m1(3).jpg,1.0000
+Testing/meningioma_tumor/image(94).jpg,meningioma_tumor,Training/meningioma_tumor/m1(4).jpg,1.0000
+Testing/meningioma_tumor/image(95).jpg,meningioma_tumor,Training/meningioma_tumor/m1(5).jpg,1.0000
+Testing/meningioma_tumor/image(96).jpg,meningioma_tumor,Training/meningioma_tumor/m1(6).jpg,1.0000
+Testing/meningioma_tumor/image(97).jpg,meningioma_tumor,Training/meningioma_tumor/m1(7).jpg,1.0000
+Testing/meningioma_tumor/image(98).jpg,meningioma_tumor,Training/meningioma_tumor/m1(8).jpg,1.0000
+Testing/meningioma_tumor/image(99).jpg,meningioma_tumor,Training/meningioma_tumor/m1(9).jpg,1.0000
+Testing/meningioma_tumor/image.jpg,meningioma_tumor,Training/meningioma_tumor/m1(109).jpg,1.0000
+Testing/no_tumor/image(1).jpg,no_tumor,Training/no_tumor/image (42).jpg,1.0000
+Testing/no_tumor/image(10).jpg,no_tumor,Training/no_tumor/image (51).jpg,1.0000
+Testing/no_tumor/image(100).jpg,no_tumor,Training/no_tumor/image(266).jpg,1.0000
+Testing/no_tumor/image(101).jpg,no_tumor,Training/no_tumor/image(326).jpg,1.0000
+Testing/no_tumor/image(102).jpg,no_tumor,Training/no_tumor/image(268).jpg,1.0000
+Testing/no_tumor/image(103).jpg,no_tumor,Training/no_tumor/image(270).jpg,1.0000
+Testing/no_tumor/image(104).jpg,no_tumor,Training/no_tumor/image(272).jpg,1.0000
+Testing/no_tumor/image(11).jpg,no_tumor,Training/no_tumor/image (52).jpg,1.0000
+Testing/no_tumor/image(12).jpg,no_tumor,Training/no_tumor/image (53).jpg,1.0000
+Testing/no_tumor/image(13).jpg,no_tumor,Training/no_tumor/image (54).jpg,1.0000
+Testing/no_tumor/image(14).jpg,no_tumor,Training/no_tumor/image (55).jpg,1.0000
+Testing/no_tumor/image(15).jpg,no_tumor,Training/no_tumor/image (56).jpg,1.0000
+Testing/no_tumor/image(16).jpg,no_tumor,Training/no_tumor/image (57).jpg,1.0000
+Testing/no_tumor/image(17).jpg,no_tumor,Training/no_tumor/image (58).jpg,1.0000
+Testing/no_tumor/image(18).jpg,no_tumor,Training/no_tumor/image (59).jpg,1.0000
+Testing/no_tumor/image(19).jpg,no_tumor,Training/no_tumor/image (60).jpg,1.0000
+Testing/no_tumor/image(2).jpg,no_tumor,Training/no_tumor/image (43).jpg,1.0000
+Testing/no_tumor/image(20).jpg,no_tumor,Training/no_tumor/image (61).jpg,1.0000
+Testing/no_tumor/image(21).jpg,no_tumor,Training/no_tumor/image (62).jpg,1.0000
+Testing/no_tumor/image(22).jpg,no_tumor,Training/no_tumor/image (63).jpg,1.0000
+Testing/no_tumor/image(23).jpg,no_tumor,Training/no_tumor/image (64).jpg,1.0000
+Testing/no_tumor/image(24).jpg,no_tumor,Training/no_tumor/image(45).jpg,1.0000
+Testing/no_tumor/image(25).jpg,no_tumor,Training/no_tumor/image(1).jpg,1.0000
+Testing/no_tumor/image(26).jpg,no_tumor,Training/no_tumor/image(2).jpg,1.0000
+Testing/no_tumor/image(27).jpg,no_tumor,Training/no_tumor/image(3).jpg,1.0000
+Testing/no_tumor/image(28).jpg,no_tumor,Training/no_tumor/image(4).jpg,1.0000
+Testing/no_tumor/image(29).jpg,no_tumor,Training/no_tumor/image(5).jpg,1.0000
+Testing/no_tumor/image(3).jpg,no_tumor,Training/no_tumor/image (44).jpg,1.0000
+Testing/no_tumor/image(30).jpg,no_tumor,Training/no_tumor/image(6).jpg,1.0000
+Testing/no_tumor/image(31).jpg,no_tumor,Training/no_tumor/image(43).jpg,1.0000
+Testing/no_tumor/image(32).jpg,no_tumor,Training/no_tumor/image(39).jpg,1.0000
+Testing/no_tumor/image(33).jpg,no_tumor,Training/no_tumor/image (51).jpg,1.0000
+Testing/no_tumor/image(34).jpg,no_tumor,Training/no_tumor/image(9).jpg,1.0000
+Testing/no_tumor/image(35).jpg,no_tumor,Training/no_tumor/image(10).jpg,1.0000
+Testing/no_tumor/image(36).jpg,no_tumor,Training/no_tumor/image(11).jpg,1.0000
+Testing/no_tumor/image(37).jpg,no_tumor,Training/no_tumor/image(12).jpg,1.0000
+Testing/no_tumor/image(38).jpg,no_tumor,Training/no_tumor/image(13).jpg,1.0000
+Testing/no_tumor/image(39).jpg,no_tumor,Training/no_tumor/image(14).jpg,1.0000
+Testing/no_tumor/image(4).jpg,no_tumor,Training/no_tumor/image (45).jpg,1.0000
+Testing/no_tumor/image(40).jpg,no_tumor,Training/no_tumor/image(15).jpg,1.0000
+Testing/no_tumor/image(41).jpg,no_tumor,Training/no_tumor/image(16).jpg,1.0000
+Testing/no_tumor/image(42).jpg,no_tumor,Training/no_tumor/image(17).jpg,1.0000
+Testing/no_tumor/image(43).jpg,no_tumor,Training/no_tumor/image(18).jpg,1.0000
+Testing/no_tumor/image(44).jpg,no_tumor,Training/no_tumor/image(19).jpg,1.0000
+Testing/no_tumor/image(45).jpg,no_tumor,Training/no_tumor/image (57).jpg,1.0000
+Testing/no_tumor/image(46).jpg,no_tumor,Training/no_tumor/image(21).jpg,1.0000
+Testing/no_tumor/image(47).jpg,no_tumor,Training/no_tumor/image(22).jpg,1.0000
+Testing/no_tumor/image(48).jpg,no_tumor,Training/no_tumor/image(23).jpg,1.0000
+Testing/no_tumor/image(49).jpg,no_tumor,Training/no_tumor/image (56).jpg,1.0000
+Testing/no_tumor/image(5).jpg,no_tumor,Training/no_tumor/image (46).jpg,1.0000
+Testing/no_tumor/image(50).jpg,no_tumor,Training/no_tumor/image(21).jpg,1.0000
+Testing/no_tumor/image(51).jpg,no_tumor,Training/no_tumor/image(26).jpg,1.0000
+Testing/no_tumor/image(52).jpg,no_tumor,Training/no_tumor/image(16).jpg,1.0000
+Testing/no_tumor/image(53).jpg,no_tumor,Training/no_tumor/image(28).jpg,1.0000
+Testing/no_tumor/image(54).jpg,no_tumor,Training/no_tumor/image(21).jpg,1.0000
+Testing/no_tumor/image(55).jpg,no_tumor,Training/no_tumor/image (57).jpg,1.0000
+Testing/no_tumor/image(56).jpg,no_tumor,Training/no_tumor/image(31).jpg,1.0000
+Testing/no_tumor/image(57).jpg,no_tumor,Training/no_tumor/image(32).jpg,1.0000
+Testing/no_tumor/image(58).jpg,no_tumor,Training/no_tumor/image(33).jpg,1.0000
+Testing/no_tumor/image(59).jpg,no_tumor,Training/no_tumor/image(34).jpg,1.0000
+Testing/no_tumor/image(6).jpg,no_tumor,Training/no_tumor/image (47).jpg,1.0000
+Testing/no_tumor/image(60).jpg,no_tumor,Training/no_tumor/image (57).jpg,1.0000
+Testing/no_tumor/image(61).jpg,no_tumor,Training/no_tumor/image (63).jpg,1.0000
+Testing/no_tumor/image(62).jpg,no_tumor,Training/no_tumor/image(37).jpg,1.0000
+Testing/no_tumor/image(63).jpg,no_tumor,Training/no_tumor/image(38).jpg,1.0000
+Testing/no_tumor/image(64).jpg,no_tumor,Training/no_tumor/image(39).jpg,1.0000
+Testing/no_tumor/image(65).jpg,no_tumor,Training/no_tumor/image(40).jpg,1.0000
+Testing/no_tumor/image(66).jpg,no_tumor,Training/no_tumor/image (51).jpg,1.0000
+Testing/no_tumor/image(67).jpg,no_tumor,Training/no_tumor/image(28).jpg,1.0000
+Testing/no_tumor/image(68).jpg,no_tumor,Training/no_tumor/image(43).jpg,1.0000
+Testing/no_tumor/image(69).jpg,no_tumor,Training/no_tumor/image (62).jpg,1.0000
+Testing/no_tumor/image(7).jpg,no_tumor,Training/no_tumor/image (48).jpg,1.0000
+Testing/no_tumor/image(70).jpg,no_tumor,Training/no_tumor/image(45).jpg,1.0000
+Testing/no_tumor/image(71).jpg,no_tumor,Training/no_tumor/image (63).jpg,1.0000
+Testing/no_tumor/image(72).jpg,no_tumor,Training/no_tumor/image(47).jpg,1.0000
+Testing/no_tumor/image(73).jpg,no_tumor,Training/no_tumor/image(1).jpg,1.0000
+Testing/no_tumor/image(74).jpg,no_tumor,Training/no_tumor/image(49).jpg,1.0000
+Testing/no_tumor/image(75).jpg,no_tumor,Training/no_tumor/image(23).jpg,1.0000
+Testing/no_tumor/image(76).jpg,no_tumor,Training/no_tumor/image(51).jpg,1.0000
+Testing/no_tumor/image(77).jpg,no_tumor,Training/no_tumor/image(52).jpg,1.0000
+Testing/no_tumor/image(78).jpg,no_tumor,Training/no_tumor/image(171).jpg,1.0000
+Testing/no_tumor/image(79).jpg,no_tumor,Training/no_tumor/image(12).jpg,1.0000
+Testing/no_tumor/image(8).jpg,no_tumor,Training/no_tumor/image (49).jpg,1.0000
+Testing/no_tumor/image(80).jpg,no_tumor,Training/no_tumor/image (50).jpg,1.0000
+Testing/no_tumor/image(81).jpg,no_tumor,Training/no_tumor/image (51).jpg,1.0000
+Testing/no_tumor/image(82).jpg,no_tumor,Training/no_tumor/image(57).jpg,1.0000
+Testing/no_tumor/image(83).jpg,no_tumor,Training/no_tumor/image(58).jpg,1.0000
+Testing/no_tumor/image(84).jpg,no_tumor,Training/no_tumor/image(28).jpg,1.0000
+Testing/no_tumor/image(85).jpg,no_tumor,Training/no_tumor/image (52).jpg,1.0000
+Testing/no_tumor/image(86).jpg,no_tumor,Training/no_tumor/image(61).jpg,1.0000
+Testing/no_tumor/image(87).jpg,no_tumor,Training/no_tumor/image(62).jpg,1.0000
+Testing/no_tumor/image(88).jpg,no_tumor,Training/no_tumor/image(63).jpg,1.0000
+Testing/no_tumor/image(89).jpg,no_tumor,Training/no_tumor/image(64).jpg,1.0000
+Testing/no_tumor/image(9).jpg,no_tumor,Training/no_tumor/image (50).jpg,1.0000
+Testing/no_tumor/image(90).jpg,no_tumor,Training/no_tumor/image(65).jpg,1.0000
+Testing/no_tumor/image(91).jpg,no_tumor,Training/no_tumor/image(66).jpg,1.0000
+Testing/no_tumor/image(92).jpg,no_tumor,Training/no_tumor/image(67).jpg,1.0000
+Testing/no_tumor/image(93).jpg,no_tumor,Training/no_tumor/image(68).jpg,1.0000
+Testing/no_tumor/image(94).jpg,no_tumor,Training/no_tumor/image(69).jpg,1.0000
+Testing/no_tumor/image(95).jpg,no_tumor,Training/no_tumor/image(70).jpg,1.0000
+Testing/no_tumor/image(96).jpg,no_tumor,Training/no_tumor/image(71).jpg,1.0000
+Testing/no_tumor/image(97).jpg,no_tumor,Training/no_tumor/image(262).jpg,1.0000
+Testing/no_tumor/image(98).jpg,no_tumor,Training/no_tumor/image(264).jpg,1.0000
+Testing/no_tumor/image(99).jpg,no_tumor,Training/no_tumor/image(325).jpg,1.0000
+Testing/no_tumor/image.jpg,no_tumor,Training/no_tumor/image (41).jpg,1.0000
+Testing/pituitary_tumor/image(10).jpg,pituitary_tumor,Training/pituitary_tumor/p (125).jpg,0.9996
+Testing/pituitary_tumor/image(11).jpg,pituitary_tumor,Training/pituitary_tumor/p (126).jpg,1.0000
+Testing/pituitary_tumor/image(13).jpg,pituitary_tumor,Training/pituitary_tumor/p (127).jpg,1.0000
+Testing/pituitary_tumor/image(15).jpg,pituitary_tumor,Training/pituitary_tumor/p (128).jpg,1.0000
+Testing/pituitary_tumor/image(19).jpg,pituitary_tumor,Training/pituitary_tumor/p (130).jpg,1.0000
+Testing/pituitary_tumor/image(20).jpg,pituitary_tumor,Training/pituitary_tumor/p (130).jpg,1.0000
+Testing/pituitary_tumor/image(21).jpg,pituitary_tumor,Training/pituitary_tumor/p (130).jpg,1.0000
+Testing/pituitary_tumor/image(22).jpg,pituitary_tumor,Training/pituitary_tumor/p (131).jpg,1.0000
+Testing/pituitary_tumor/image(23).jpg,pituitary_tumor,Training/pituitary_tumor/p (131).jpg,1.0000
+Testing/pituitary_tumor/image(30).jpg,pituitary_tumor,Training/pituitary_tumor/p (134).jpg,1.0000
+Testing/pituitary_tumor/image(31).jpg,pituitary_tumor,Training/pituitary_tumor/p (135).jpg,1.0000
+Testing/pituitary_tumor/image(35).jpg,pituitary_tumor,Training/pituitary_tumor/p (137).jpg,1.0000
+Testing/pituitary_tumor/image(36).jpg,pituitary_tumor,Training/pituitary_tumor/p (137).jpg,1.0000
+Testing/pituitary_tumor/image(37).jpg,pituitary_tumor,Training/pituitary_tumor/p (137).jpg,1.0000
+Testing/pituitary_tumor/image(5).jpg,pituitary_tumor,Training/pituitary_tumor/p (124).jpg,1.0000
+Testing/pituitary_tumor/image(6).jpg,pituitary_tumor,Training/pituitary_tumor/p (124).jpg,1.0000
+Testing/pituitary_tumor/image(73).jpg,pituitary_tumor,Training/pituitary_tumor/p (138).jpg,1.0000
+Testing/pituitary_tumor/image(76).jpg,pituitary_tumor,Training/pituitary_tumor/p (564).jpg,1.0000
+Testing/pituitary_tumor/image(77).jpg,pituitary_tumor,Training/pituitary_tumor/p (564).jpg,1.0000
+Testing/pituitary_tumor/image(78).jpg,pituitary_tumor,Training/pituitary_tumor/p (564).jpg,1.0000
+Testing/pituitary_tumor/image(85).jpg,pituitary_tumor,Training/pituitary_tumor/p (570).jpg,1.0000
+Testing/pituitary_tumor/image(86).jpg,pituitary_tumor,Training/pituitary_tumor/p (570).jpg,1.0000
+Testing/pituitary_tumor/image(87).jpg,pituitary_tumor,Training/pituitary_tumor/p (139).jpg,0.9992
+Testing/pituitary_tumor/image(88).jpg,pituitary_tumor,Training/pituitary_tumor/p (139).jpg,0.9992
+Testing/pituitary_tumor/image.jpg,pituitary_tumor,Training/pituitary_tumor/p (570).jpg,1.0000

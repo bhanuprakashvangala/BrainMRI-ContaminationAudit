@@ -1,0 +1,4 @@
+query,reference,n,exact_md5,exact_pct,near_ncc098,near_pct
+sartaj_all,nickparvar_all,3264,2670,81.8,2705,82.87
+navoneel,nickparvar_all,253,66,26.09,123,48.62
+navoneel,sartaj_all,253,0,0.0,98,38.74

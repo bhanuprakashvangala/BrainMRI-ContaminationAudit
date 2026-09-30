@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Scores That Hold, Benchmarks That Leak: Measuring Dataset Contamination in Public Brain-Tumor MRI Classification"
+repository-code: "https://github.com/bhanuprakashvangala/BrainMRI-ContaminationAudit"
+authors:
+  - family-names: Vangala
+    given-names: Bhanu Prakash
+    affiliation: University of Missouri
+  - family-names: Guda
+    given-names: Sowmya
+    affiliation: University of Missouri
+  - family-names: Peddi
+    given-names: Latha
+  - family-names: Vangala
+    given-names: Navya
+license: MIT
+preferred-citation:
+  type: generic
+  title: "Scores That Hold, Benchmarks That Leak: Measuring Dataset Contamination in Public Brain-Tumor MRI Classification"
+  authors:
+    - family-names: Vangala
+      given-names: Bhanu Prakash
+    - family-names: Guda
+      given-names: Sowmya
+    - family-names: Peddi
+      given-names: Latha
+    - family-names: Vangala
+      given-names: Navya
+  year: 2026
+  notes: "Under review at IEEE Journal of Biomedical and Health Informatics"

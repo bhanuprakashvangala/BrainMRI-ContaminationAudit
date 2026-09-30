@@ -1,0 +1,124 @@
+path,label,best_match,ncc
+no/1 no.jpeg,no,Training/notumor/Tr-no_1062.jpg,1.0000
+no/10 no.jpg,no,Training/notumor/Tr-no_66.jpg,1.0000
+no/11 no.jpg,no,Testing/notumor/Te-no_38.jpg,0.9998
+no/12 no.jpg,no,Training/notumor/Tr-no_652.jpg,1.0000
+no/13 no.jpg,no,Testing/notumor/Te-no_110.jpg,0.9999
+no/14 no.jpg,no,Training/notumor/Tr-no_1133.jpg,1.0000
+no/15 no.jpg,no,Training/notumor/Tr-no_555.jpg,1.0000
+no/17 no.jpg,no,Training/notumor/Tr-no_296.jpg,1.0000
+no/18 no.jpg,no,Training/notumor/Tr-no_984.jpg,1.0000
+no/19 no.jpg,no,Training/notumor/Tr-no_459.jpg,1.0000
+no/2 no.jpeg,no,Training/notumor/Tr-no_715.jpg,1.0000
+no/20 no.jpg,no,Training/notumor/Tr-no_146.jpg,0.9999
+no/21 no.jpg,no,Training/notumor/Tr-no_1108.jpg,1.0000
+no/22 no.jpg,no,Training/notumor/Tr-no_1095.jpg,1.0000
+no/23 no.jpg,no,Training/notumor/Tr-no_465.jpg,1.0000
+no/24 no.jpg,no,Training/notumor/Tr-no_117.jpg,1.0000
+no/25 no.jpg,no,Training/notumor/Tr-no_694.jpg,1.0000
+no/26 no.jpg,no,Training/notumor/Tr-no_1281.jpg,1.0000
+no/27 no.jpg,no,Training/notumor/Tr-no_296.jpg,1.0000
+no/28 no.jpg,no,Training/notumor/Tr-no_1082.jpg,1.0000
+no/29 no.jpg,no,Training/notumor/Tr-no_1074.jpg,1.0000
+no/3 no.jpg,no,Training/notumor/Tr-no_464.jpg,1.0000
+no/30 no.jpg,no,Training/notumor/Tr-no_593.jpg,1.0000
+no/31 no.jpg,no,Training/notumor/Tr-no_151.jpg,1.0000
+no/32 no.jpg,no,Training/notumor/Tr-no_1286.jpg,1.0000
+no/33 no.jpg,no,Training/notumor/Tr-no_1239.jpg,1.0000
+no/34 no.jpg,no,Training/notumor/Tr-no_293.jpg,1.0000
+no/35 no.jpg,no,Training/notumor/Tr-no_220.jpg,1.0000
+no/36 no.jpg,no,Training/notumor/Tr-no_390.jpg,1.0000
+no/37 no.jpg,no,Training/notumor/Tr-no_774.jpg,1.0000
+no/38 no.jpg,no,Training/notumor/Tr-no_1170.jpg,1.0000
+no/39 no.jpg,no,Training/notumor/Tr-no_1068.jpg,1.0000
+no/4 no.jpg,no,Training/notumor/Tr-no_375.jpg,1.0000
+no/40 no.jpg,no,Training/notumor/Tr-no_347.jpg,1.0000
+no/41 no.jpg,no,Training/notumor/Tr-no_347.jpg,1.0000
+no/42 no.jpg,no,Testing/notumor/Te-no_110.jpg,0.9999
+no/43 no.jpg,no,Training/notumor/Tr-no_607.jpg,1.0000
+no/44no.jpg,no,Training/notumor/Tr-no_441.jpg,1.0000
+no/45 no.jpg,no,Training/notumor/Tr-no_724.jpg,1.0000
+no/46 no.jpg,no,Training/notumor/Tr-no_332.jpg,1.0000
+no/47 no.jpg,no,Training/notumor/Tr-no_538.jpg,1.0000
+no/48 no.jpeg,no,Training/notumor/Tr-no_1326.jpg,1.0000
+no/49 no.jpg,no,Training/notumor/Tr-no_82.jpg,1.0000
+no/5 no.jpg,no,Training/notumor/Tr-no_188.jpg,1.0000
+no/50 no.jpg,no,Training/notumor/Tr-no_334.jpg,1.0000
+no/6 no.jpg,no,Training/notumor/Tr-no_195.jpg,1.0000
+no/7 no.jpg,no,Training/notumor/Tr-no_19.jpg,1.0000
+no/8 no.jpg,no,Training/notumor/Tr-no_1170.jpg,1.0000
+no/9 no.jpg,no,Training/notumor/Tr-no_66.jpg,1.0000
+no/N11.jpg,no,Training/notumor/Tr-no_777.jpg,1.0000
+no/N15.jpg,no,Training/notumor/Tr-no_106.jpg,1.0000
+no/N16.jpg,no,Training/notumor/Tr-no_1214.jpg,1.0000
+no/N17.jpg,no,Training/notumor/Tr-no_1132.jpg,0.9999
+no/N19.JPG,no,Training/notumor/Tr-no_993.jpg,1.0000
+no/N2.JPG,no,Training/notumor/Tr-no_358.jpg,1.0000
+no/N20.JPG,no,Training/notumor/Tr-no_437.jpg,1.0000
+no/N21.jpg,no,Training/notumor/Tr-no_912.jpg,1.0000
+no/N22.JPG,no,Training/notumor/Tr-no_388.jpg,1.0000
+no/N26.JPG,no,Training/notumor/Tr-no_218.jpg,1.0000
+no/N3.jpg,no,Training/notumor/Tr-no_955.jpg,1.0000
+no/N5.jpg,no,Training/notumor/Tr-no_375.jpg,1.0000
+no/N6.jpg,no,Training/notumor/Tr-no_135.jpg,1.0000
+no/No11.jpg,no,Training/notumor/Tr-no_288.jpg,1.0000
+no/No12.jpg,no,Training/notumor/Tr-no_630.jpg,1.0000
+no/No13.jpg,no,Training/notumor/Tr-no_14.jpg,1.0000
+no/No14.jpg,no,Training/notumor/Tr-no_178.jpg,1.0000
+no/No15.jpg,no,Training/notumor/Tr-no_1200.jpg,1.0000
+no/No17.jpg,no,Training/notumor/Tr-no_1200.jpg,1.0000
+no/No18.jpg,no,Training/notumor/Tr-no_572.jpg,1.0000
+no/No19.jpg,no,Training/notumor/Tr-no_821.jpg,1.0000
+no/No20.jpg,no,Training/notumor/Tr-no_1330.jpg,1.0000
+no/No21.jpg,no,Training/notumor/Tr-no_1245.jpg,1.0000
+no/No22.jpg,no,Training/notumor/Tr-no_1083.jpg,1.0000
+no/no 1.jpg,no,Training/notumor/Tr-no_82.jpg,1.0000
+no/no 10.jpg,no,Training/notumor/Tr-no_166.jpg,1.0000
+no/no 100.jpg,no,Training/notumor/Tr-no_1063.jpg,1.0000
+no/no 2.jpg,no,Training/notumor/Tr-no_540.jpg,1.0000
+no/no 3.jpg,no,Training/notumor/Tr-no_717.jpg,1.0000
+no/no 4.jpg,no,Training/notumor/Tr-no_955.jpg,1.0000
+no/no 5.jpeg,no,Training/notumor/Tr-no_1379.jpg,1.0000
+no/no 6.jpg,no,Training/notumor/Tr-no_1162.jpg,1.0000
+no/no 7.jpeg,no,Training/notumor/Tr-no_288.jpg,1.0000
+no/no 8.jpg,no,Training/notumor/Tr-no_1136.jpg,1.0000
+no/no 89.jpg,no,Training/notumor/Tr-no_1118.jpg,1.0000
+no/no 90.jpg,no,Training/notumor/Tr-no_194.jpg,1.0000
+no/no 91.jpeg,no,Training/notumor/Tr-no_435.jpg,1.0000
+no/no 92.jpg,no,Training/notumor/Tr-no_61.jpg,1.0000
+no/no 923.jpg,no,Training/notumor/Tr-no_1190.jpg,1.0000
+no/no 94.jpg,no,Training/notumor/Tr-no_1062.jpg,1.0000
+no/no 95.jpg,no,Training/notumor/Tr-no_415.jpg,1.0000
+no/no 96.jpg,no,Training/notumor/Tr-no_22.jpg,1.0000
+no/no 97.jpg,no,Training/notumor/Tr-no_673.jpg,1.0000
+no/no 98.jpg,no,Training/notumor/Tr-no_625.jpg,1.0000
+no/no 99.jpg,no,Training/notumor/Tr-no_474.jpg,1.0000
+no/no.jpg,no,Training/notumor/Tr-no_304.jpg,1.0000
+yes/Y1.jpg,yes,Training/meningioma/Tr-me_942.jpg,1.0000
+yes/Y10.jpg,yes,Testing/glioma/Te-gl_151.jpg,1.0000
+yes/Y103.jpg,yes,Training/meningioma/Tr-me_241.jpg,1.0000
+yes/Y105.jpg,yes,Training/meningioma/Tr-me_1125.jpg,0.9999
+yes/Y106.jpg,yes,Testing/meningioma/Te-me_272.jpg,0.9867
+yes/Y15.jpg,yes,Testing/glioma/Te-gl_171.jpg,1.0000
+yes/Y153.jpg,yes,Training/meningioma/Tr-me_1125.jpg,1.0000
+yes/Y181.jpg,yes,Testing/glioma/Te-gl_171.jpg,1.0000
+yes/Y194.jpg,yes,Testing/glioma/Te-gl_204.jpg,0.9998
+yes/Y21.jpg,yes,Testing/glioma/Te-gl_97.jpg,0.9997
+yes/Y25.jpg,yes,Testing/glioma/Te-gl_1.jpg,1.0000
+yes/Y27.jpg,yes,Testing/glioma/Te-gl_349.jpg,1.0000
+yes/Y34.jpg,yes,Testing/glioma/Te-gl_228.jpg,1.0000
+yes/Y35.jpg,yes,Training/meningioma/Tr-me_221.jpg,1.0000
+yes/Y37.jpg,yes,Testing/glioma/Te-gl_151.jpg,1.0000
+yes/Y39.jpg,yes,Testing/glioma/Te-gl_76.jpg,0.9999
+yes/Y4.jpg,yes,Training/meningioma/Tr-me_862.jpg,1.0000
+yes/Y40.JPG,yes,Training/meningioma/Tr-me_289.jpg,1.0000
+yes/Y41.jpg,yes,Training/meningioma/Tr-me_1032.jpg,1.0000
+yes/Y56.jpg,yes,Testing/meningioma/Te-me_266.jpg,1.0000
+yes/Y69.jpg,yes,Testing/glioma/Te-gl_1.jpg,1.0000
+yes/Y7.jpg,yes,Training/meningioma/Tr-me_1064.jpg,1.0000
+yes/Y76.jpg,yes,Testing/glioma/Te-gl_1.jpg,0.9999
+yes/Y8.jpg,yes,Training/meningioma/Tr-me_221.jpg,1.0000
+yes/Y81.jpg,yes,Training/meningioma/Tr-me_14.jpg,1.0000
+yes/Y82.jpg,yes,Training/meningioma/Tr-me_796.jpg,1.0000
+yes/Y91.jpg,yes,Testing/glioma/Te-gl_97.jpg,1.0000
+yes/Y95.jpg,yes,Testing/glioma/Te-gl_30.jpg,0.9997
