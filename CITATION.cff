@@ -15,7 +15,7 @@ authors:
     given-names: Navya
 license: MIT
 preferred-citation:
-  type: generic
+  type: article
   title: "Scores That Hold, Benchmarks That Leak: Measuring Dataset Contamination in Public Brain-Tumor MRI Classification"
   authors:
     - family-names: Vangala
@@ -26,5 +26,7 @@ preferred-citation:
       given-names: Latha
     - family-names: Vangala
       given-names: Navya
+  journal: "arXiv preprint arXiv:2610.00421"
   year: 2026
-  notes: "Under review at IEEE Journal of Biomedical and Health Informatics"
+  doi: "10.48550/arXiv.2610.00421"
+  url: "https://arxiv.org/abs/2610.00421"

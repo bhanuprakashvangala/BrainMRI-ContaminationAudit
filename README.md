@@ -84,11 +84,14 @@ Patients (recovered from `cjdata.PID` in the figshare release, 3,064 slices from
 ## Citation
 
 ```bibtex
-@misc{vangala2026scores,
-  title  = {Scores That Hold, Benchmarks That Leak: Measuring Dataset Contamination in Public Brain-Tumor MRI Classification},
-  author = {Vangala, Bhanu Prakash and Guda, Sowmya and Peddi, Latha and Vangala, Navya},
-  year   = {2026},
-  note   = {Under review at IEEE Journal of Biomedical and Health Informatics}
+@misc{vangala2026scoresholdbenchmarksleak,
+      title={Scores That Hold, Benchmarks That Leak: Measuring Dataset Contamination in Public Brain-Tumor MRI Classification},
+      author={Bhanu Prakash Vangala and Sowmya Guda and Latha Peddi and Navya Vangala},
+      year={2026},
+      eprint={2610.00421},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.00421},
 }
 ```
 
